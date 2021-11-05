@@ -115,9 +115,12 @@ top: 0;
 }
 
 .maa img{
-        height: 100vh;
+        height: 105vh;
         width: 100vw;
         margin-top: 23vh;
+        position:absolute;
+        z-index: -1;
+        
 }
 
 .saav_wrapper{
